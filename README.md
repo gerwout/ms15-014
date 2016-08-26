@@ -66,3 +66,5 @@ If you run rsop.msc on the client you can verify this.
 Go to Computer configuration -> Windows settings -> Security Settings -> Local Policies -> Security Options
 The option Microsoft network client:Digitally sign communications (always) is no longer enabled.
 
+# Video demonstrating this exploit
+https://www.youtube.com/watch?v=N3zozQGNI-Q
