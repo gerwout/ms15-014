@@ -1,0 +1,2 @@
+NetfilterQueue==0.7
+scapy-python3==0.18
